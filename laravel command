@@ -1,4 +1,8 @@
 => pagination vendor 
 php artisan vendor:publish --tag=laravel-paginatio
 
-=>
+=> SCSS run korar jonno npm install korar 4 ta command
+  1. npm cache clear --force
+  2. npm install cross-env
+  3. npm install
+  4. npm run watch
